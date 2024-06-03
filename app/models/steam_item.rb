@@ -1,0 +1,2 @@
+class SteamItem < ApplicationRecord
+end
